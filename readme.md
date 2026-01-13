@@ -20,3 +20,9 @@ Funciona para descargar texto de internet.
 
 Se ejecuta copiando y pegando un link. Recomiendo:
 https://automatetheboringstuff.com/files/rj.txt
+
+# findLatLong
+
+Funciona para encontrar la latitud y longitud de una ciudad. En este caso Bs As. Como la app mientras realizaba el programa estaba caída, el programa no funciona, ademas que no use una api key real.
+
+El json load transforma el txt a json.
