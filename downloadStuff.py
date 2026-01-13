@@ -1,7 +1,9 @@
 import requests
 
-response = requests.get('https://automatetheboringstuff.com/files/rj.txt')
+link = input("Ingrese el link que quiera agregar a su pc")
 
-with open("RomeoAndJuliet.txt", "wb") as play_file:
+response = requests.get(link)
+
+with open("archivo.txt", "wb") as play_file:
     for chunks in response.iter_content(100000):
         play_file.write(chunks)
