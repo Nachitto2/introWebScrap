@@ -30,4 +30,14 @@ https://automatetheboringstuff.com/files/rj.txt
 
 Funciona para encontrar la latitud y longitud de una ciudad. En este caso Bs As. Como la app mientras realizaba el programa estaba caída, el programa no funciona, ademas que no use una api key real.
 
-El json load transforma el txt a json.
+El json load transforma el txt a json.}
+
+## findElements
+
+Para practicar esto le fui pidiendo a chatgpt ejercicios como para saber que selectores usar, usando como machete una foto del libro automate Boring Stuff With Python.
+
+Luego hice el ejercicio para evidenciar la practica. 
+Lo que hace el programa es:
+-Descargar el html de la pagina (dada por el libro)
+-Buscar elementos y printearlos
+
