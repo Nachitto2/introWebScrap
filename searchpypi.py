@@ -1,6 +1,6 @@
 import requests, sys,webbrowser,bs4
 
-if sys.argv>1:
+if len(sys.argv)>1:
     res = requests.get('https://pypi.org/search/?q=' +' '.join(sys.argv[1:]))
     res.raise_for_status()
 
