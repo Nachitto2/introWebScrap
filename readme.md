@@ -41,3 +41,10 @@ Lo que hace el programa es:
 -Descargar el html de la pagina (dada por el libro)
 -Buscar elementos y printearlos
 
+## searchpypi.py
+
+Este programa busca una librería de python y abre los primeros 5 resultados (o menos si es que no hay).
+Funciona ejecutandolo por la terminal de la siguiente manera:
+python searchpypi.py {nombre_librería}.
+
+El programa compila y debería funcionar pero falla por los niveles de seguridad de la webapp. Eso sobrepasa mis conocimientos y los objetivos de aprendizaje actuales.
