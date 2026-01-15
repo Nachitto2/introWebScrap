@@ -32,7 +32,7 @@ Funciona para encontrar la latitud y longitud de una ciudad. En este caso Bs As.
 
 El json load transforma el txt a json.}
 
-## findElements
+## mi_select
 
 Para practicar esto le fui pidiendo a chatgpt ejercicios como para saber que selectores usar, usando como machete una foto del libro automate Boring Stuff With Python.
 
@@ -48,3 +48,5 @@ Funciona ejecutandolo por la terminal de la siguiente manera:
 python searchpypi.py {nombre_librería}.
 
 El programa compila y debería funcionar pero falla por los niveles de seguridad de la webapp. Eso sobrepasa mis conocimientos y los objetivos de aprendizaje actuales.
+
+##
