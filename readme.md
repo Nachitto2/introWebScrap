@@ -49,4 +49,8 @@ python searchpypi.py {nombre_librería}.
 
 El programa compila y debería funcionar pero falla por los niveles de seguridad de la webapp. Eso sobrepasa mis conocimientos y los objetivos de aprendizaje actuales.
 
-##
+## find_elements 1 y 2 
+
+Mi idea es aprender selenium. Estos programas son directamente practica de eso. El primero practico encontrar elementos por clase, en el segundo por ID. 
+
+
