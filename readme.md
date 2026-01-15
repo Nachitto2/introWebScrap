@@ -53,4 +53,8 @@ El programa compila y debería funcionar pero falla por los niveles de seguridad
 
 Mi idea es aprender selenium. Estos programas son directamente practica de eso. El primero practico encontrar elementos por clase, en el segundo por ID. 
 
+Una vez encontré el elemento hacer el click es muy facil. Tengo que poner elemento.click() y listo.
+
+Luego poniendo elemento.send_keys("texto") Puedo ingresar texto! Con esto el find_elements2 podría funcionar como una prueba automatizada de login fallido (Testing tambien es un area de interes)
+
 

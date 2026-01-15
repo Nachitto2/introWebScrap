@@ -10,6 +10,10 @@ usuario = driver.find_element(By.ID,"user-name")
 password = driver.find_element(By.ID,"password")
 login = driver.find_element(By.NAME,"login-button")
 
+usuario.send_keys("aaa")
+password.send_keys("aaa")
+login.click()
+
 print(usuario.is_displayed())
 
 print(password.is_displayed())
