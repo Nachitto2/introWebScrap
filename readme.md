@@ -62,3 +62,8 @@ Luego poniendo elemento.send_keys("texto") Puedo ingresar texto! Con esto el fin
 Esta es mi primera experiencia con playwright. Lo que hace este programa es abrir la web y sacar el titulo. La principal 
 diferencia que tiene playwright con selenium es que funciona de manera headless, es decir no abre la pagina y te muestra como 
 ejecuta los comandos por eso le imprimimos el titulo, para evidenciar su funcionamiento.
+
+## loginCorrecto
+
+Programa que sirve para realizar un caso de prueba automatico, chequeando el funcionamiento de un login usando playwright.
+Ponemos en practica el funcionamiento de page.fill y page.click.
