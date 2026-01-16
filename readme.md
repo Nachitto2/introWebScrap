@@ -67,3 +67,7 @@ ejecuta los comandos por eso le imprimimos el titulo, para evidenciar su funcion
 
 Programa que sirve para realizar un caso de prueba automatico, chequeando el funcionamiento de un login usando playwright.
 Ponemos en practica el funcionamiento de page.fill y page.click.
+
+## loginCorrecto2
+
+Misma idea que el primero pero ahora hecho sin ayuda. Con la simple idea de ponerlo en práctica
