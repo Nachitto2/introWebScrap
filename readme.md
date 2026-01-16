@@ -57,4 +57,8 @@ Una vez encontré el elemento hacer el click es muy facil. Tengo que poner eleme
 
 Luego poniendo elemento.send_keys("texto") Puedo ingresar texto! Con esto el find_elements2 podría funcionar como una prueba automatizada de login fallido (Testing tambien es un area de interes)
 
+## getTitulo
 
+Esta es mi primera experiencia con playwright. Lo que hace este programa es abrir la web y sacar el titulo. La principal 
+diferencia que tiene playwright con selenium es que funciona de manera headless, es decir no abre la pagina y te muestra como 
+ejecuta los comandos por eso le imprimimos el titulo, para evidenciar su funcionamiento.
