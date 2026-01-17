@@ -10,4 +10,5 @@ with sync_playwright() as p:
 
     loc_paises = page.locator(".country-name")
 
-    print(loc_paises.all())
+    for i in range(100):
+        print(loc_paises.nth(i).inner_text())
